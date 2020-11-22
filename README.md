@@ -1,5 +1,5 @@
 # Prototype
-A prototype of an Augmented Reality postcard that me and a friend made. Created as an interactive game using Unity and C# and Blender.
+A prototype of an Augmented Reality postcard that me and a friend made. Created as an interactive game using Unity,C# and Blender.
 
 
 
