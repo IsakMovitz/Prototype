@@ -11,6 +11,7 @@ Hold right click = move the camera
 
 Esc = exit game
 
+Scroll = zoom in and out
 
 
 
