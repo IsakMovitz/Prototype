@@ -1,4 +1,4 @@
-#Repository
+# Repository
 The repository contains a finished build of the project with an executable file LivingPostcard.exe as well as a folder with the scripts used for the interaction.
 
 
